@@ -13,7 +13,7 @@ Este projeto é uma **calculadora simples e responsiva** desenvolvida com **HTML
 
 ---
 ## Acesse em
-🔗(https://gustavo-pereira-carvalho.github.io/calculadora/)
+(https://gustavo-pereira-carvalho.github.io/calculadora/)
 ---
 
 ## 📸 Imagem de Exemplo
