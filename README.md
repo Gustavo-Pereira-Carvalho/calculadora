@@ -12,8 +12,11 @@ Este projeto é uma **calculadora simples e responsiva** desenvolvida com **HTML
 - Suporte a expressões como `12+3*2`
 
 ---
+## Acesse em
+()
+---
 
-## 📸 Imagem de Exemplo (opcional)
+## 📸 Imagem de Exemplo
 
 ![Print da Calculadora](./screenshot/calc.png)
 
